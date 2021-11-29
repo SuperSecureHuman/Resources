@@ -1,2 +1,2 @@
-### Math for ML (Free Book by Cambridge)
+#### Math for ML (Free Book by Cambridge)
 https://mml-book.github.io/

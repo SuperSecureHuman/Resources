@@ -8,3 +8,6 @@ https://www.youtube.com/c/3blue1brown
 
 #### Gilbert Strang's MIT linear Algebra playlist
 https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+
+#### ZachStar youtube channel (Math videos are good)
+https://www.youtube.com/c/zachstar/

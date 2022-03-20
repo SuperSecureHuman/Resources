@@ -4,3 +4,7 @@ https://github.com/rentruewang/koila
 
 #### Tensor RT - Accelerate Inference of models
 https://docs.nvidia.com/deeplearning/tensorrt/
+
+### Awesome list thingy
+
+https://github.com/josephmisiti/awesome-machine-learning

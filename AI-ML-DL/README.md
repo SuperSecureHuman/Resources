@@ -8,3 +8,7 @@ https://docs.nvidia.com/deeplearning/tensorrt/
 ### Awesome list thingy
 
 https://github.com/josephmisiti/awesome-machine-learning
+
+### AI training profiler
+
+https://github.com/graphsignal/graphsignal
